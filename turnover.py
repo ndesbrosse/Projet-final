@@ -30,3 +30,5 @@ def info_df(df):
     return df_info
 
 print(info_df(df))
+
+print(df.describe())
